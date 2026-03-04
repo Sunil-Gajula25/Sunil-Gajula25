@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Gajula Sunil Kumar
 
-<!--
-**Sunil-Gajula25/Sunil-Gajula25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Engineer | Generative AI, Chatbots & Voice Agents**
 
-Here are some ideas to get you started:
+I am a passionate software engineer specializing in building intelligent, interactive applications. I focus on bridging the gap between humans and computers using Large Language Models (LLMs), Natural Language Processing (NLP), and advanced voice technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a system can converse, reason, or speak—I'm interested in building it.
+
+### 🚀 What I Build
+*   **Conversational AI:** Designing and engineering Gen-AI chatbots that solve real user problems.
+*   **Interactive Voice Agents:** Developing smart voice assistants using modern text-to-speech (TTS) and speech-to-text (STT) technologies.
+*   **LLM Integrations:** Experimenting with prompt engineering, RAG (Retrieval-Augmented Generation), and API integrations (OpenAI, HuggingFace, etc.).
+
+### 💻 My Tech Stack
+*   **Languages:** Python, JavaScript, HTML/CSS
+*   **AI/ML:** LangChain, OpenAI API, LLMs, NLP, Prompt Engineering
+*   **Tools:** Git, REST APIs, Vector Databases
+
+### 📫 Let's Connect!
+*   **Email:** sunilgajula25@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/sunilgajula25/
+
+---
+⭐️ *Constantly exploring the boundaries of autonomous AI agents and conversational computing.*
