@@ -7,7 +7,7 @@ I am a **Software Engineer & AI/ML Developer** passionate about building intelli
 ## 🌾 Featured Project
 
 ### 🤖 [AI Farmer Assistant (Smart Agriculture Platform)](https://github.com/Sunil-Gajula25/Farmer_Bot)
-An advanced, end-to-end digital agronomist that diagnoses crop leaf diseases, provides organic/chemical treatments, and guides farmers in their local languages.
+An advanced, end-to-end digital agronomist that diagnoses crop leaf diseases, provides organic/chemical treatments, and guides farmers.
 *   **Core Tech**: PyTorch, Hugging Face (MobileNetV2), DeepSeek AI (V3 Reasoning), Canvas Heuristics, Tailwind CSS.
 *   **Interactive Demo**: Check out the [walkthrough video in the repository](https://github.com/Sunil-Gajula25/Farmer_Bot/blob/master/walkthrough.webp).
 
